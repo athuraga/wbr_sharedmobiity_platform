@@ -1,6 +1,5 @@
 ## WBR
 
-[![license](https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE)
 
 WBR is a Blockchain Mobility Sharing platform that allows companies, small businesses, and individuals to lease out sharing objects (cars, motorbikes, bikes, charging stations, parking lots) to users. The platform features an Ethereum based on-chain government model and verifiable fiat money to token exchange. The client that interacts with the Blockchain is built with Flutter, which compiles a single codebase to an Android and iOS app.
 
